@@ -1,7 +1,7 @@
-
-
-
-
+thread_lib.c , thread_lib.h and thread.c contain the code to implement :
+1. Threads
+2. Sequential lock
+3. Anderson's lock 
 
 About xv6 : 
 
